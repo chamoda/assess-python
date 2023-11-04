@@ -1,0 +1,131 @@
+[
+  {  
+    "text": "Familiar with basic Python syntax and data types (strings, integers, lists, dictionaries).",
+    "type": "Beginner"
+  },
+  {   
+    "text": "Can write simple functions and use control flow statements (if, for, while).",
+    "type": "Beginner"
+  },
+  {  
+    "text": "Understands the concept of variables and variable scope.",
+    "type": "Beginner"
+  },
+  {  
+    "text": "Can use basic Python libraries like <i>math</i> and <i>random</i>.",
+    "type": "Beginner"
+  },
+  {  
+    "text": "Knows how to handle errors and exceptions using try/except blocks.",
+    "type": "Beginner"
+  },
+  {
+    "text": "Can read from and write to files.",
+    "type": "Beginner"
+  },
+  {
+    "text": "Understands the basics of object-oriented programming: classes, objects, methods.",
+    "type": "Beginner"
+  },
+  {
+    "text": "Can use basic string and list methods for manipulation.",
+    "type": "Beginner"
+  },
+  {
+    "text": "Knows how to use basic Python data structures like lists, tuples, sets and dictionaries",
+    "type": "Beginner"
+  },    
+  {
+    "text": "Can write simple Python scripts to automate tasks.",
+    "type": "Beginner"
+  },
+  {
+    "text": "Can use Python libraries like flask, numpy, pandas",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses generators and decorators.",
+    "type": "Advance"
+  },
+  {
+    "text": "Can write complex functions and classes with multiple methods and attributes.",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses list comprehensions and lambda functions.",
+    "type": "Advance"
+  },
+  {
+    "text": "Can use regular expressions for pattern matching in strings.",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses context managers for resource management.",
+    "type": "Advance"
+  },
+  {
+    "text": "Can use regular expressions for pattern matching in strings.",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses context managers for resource management.",
+    "type": "Advance"
+  },
+  {
+    "text": "Can use advanced Python data structures like sets and frozensets.",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses Python's memory management and optimization techniques.",
+    "type": "Advance"
+  },
+  {
+    "text": "Can use Python's built-in functions like map(), filter(), reduce()",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses Python's module and package system.",
+    "type": "Advance"
+  },
+  {
+    "text": "Understands and uses metaclasses and descriptors.",
+    "type": "Expert"
+  },
+  {
+    "text": "Can write and understand asynchronous code using asyncio",
+    "type": "Expert"
+  },
+  {
+    "text": "Understands and uses Python's concurrency and parallelism features.",
+    "type": "Expert"
+  },
+  {
+    "text": "Can use Python's C API to extend Python with C/C++ code.",
+    "type": "Expert"
+  },
+  {
+    "text": "Understands and uses Python's dynamic typing system to its full extent.",
+    "type": "Expert"
+  },
+  {
+    "text": "Can write and understand complex decorators and context managers.",
+    "type": "Expert"
+  },
+  {
+    "text": "Understands and uses Python's garbage collection system.",
+    "type": "Expert"
+  },
+  {
+    "text": "Proficient in Python's debugging and profiling, using tools like pdb for debugging and cProfile for profiling to optimize code.",
+    "type": "Expert"
+  },
+  {
+    "text": "Have a deep understanding of Python's Global Interpreter Lock (GIL) and how it affects multithreaded programs.",
+    "type": "Expert"
+  },
+  {
+    "text": "Have a good understanding of Python's internals, such as bytecode, the Python interpreter's execution model, and how Python's data types are implemented at the C level.",
+    "type": "Expert"
+  }
+]
+
